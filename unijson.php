@@ -3,8 +3,8 @@
  * DB Credentials:
  *      Just edit the credentials below to your MySQL DB credentials....
  */
-$db='usertab'; // Database Name
-$table='user'; // Table Name
+$db='db'; // Database Name
+$table='table'; // Table Name
 $host='localhost'; // Database Host
 $usn='root'; // Database User
 $pss=''; // Database Password
