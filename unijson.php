@@ -28,6 +28,15 @@ while($row=mysqli_fetch_array($result))
     }
 
 /*
+ *  Filtering and sorting
+ * 	Just comment out the code below to enable filtering and sorting. Dont forget to comment out the actual
+ *  $query variable after using a filter.
+ */
+ //$query="select * from ".$table." where 1 limit 0,10"; //Uncomment to add any limits...
+ //$ordercol="Column_name";// Column name to sort the db
+ //$query="select * from ".$table." where 1 order by '".$ordercol."' asc"; //Uncomment 2 lines to enable sorting.
+ 
+ /*
  *  Getting the entire table:
  */
 $query="select * from ".$table." where 1";
