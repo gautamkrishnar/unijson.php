@@ -14,7 +14,7 @@ $pss='dc_password'; // Database Password
 ### What is unijson.php
 Unijson.php will convert any existing MySQL database into JSON format. See an example below:
 
-Using unijson.php on the datiabase below
+Using unijson.php on the dataabase below
 
 | name | email | phno |
 |--------|--------|--------|
@@ -29,6 +29,10 @@ Will produce the following output:
 {"json_uuid":2,"name":"test3","email":"test3@test.com","phno":"123456"}]
 
 ```
+### Features
+* Easy to use, No need to learn PHP
+* Fully documented source code
+* JSON Prettify function
 
 ### License
 MIT License
