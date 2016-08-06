@@ -1,5 +1,5 @@
 # Unijson.php
-Universal PHP script to generate JSON from any MySQL database. [unijson.php](unijson.php) is a PHP script that can convert any existing database into JSON format easily. It is well documented and customizable (See the inline comments in the code). App developers can customize the code and use it as a backend for their applications.
+Universal PHP script to generate JSON from any MySQL database. [unijson.php](unijson.php) is a PHP script that can convert any existing database into JSON format easily. It is well documented and customizable (See the inline comments in the code). App developers can customize the code and use it as a backend for their applications. No need to learn PHP anymore :wink:.
 
 ### How to use unijson.php
 Simply copy the [unijson.php](ujson.php) to your server, edit the line below and add your MySQL database credentials:
