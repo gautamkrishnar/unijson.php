@@ -34,5 +34,9 @@ Will produce the following output:
 * Fully documented source code
 * JSON Prettify function
 
+### To Do
+- [ ] Add ability to change the DB column names on JSON output  
+
+
 ### License
 MIT License
